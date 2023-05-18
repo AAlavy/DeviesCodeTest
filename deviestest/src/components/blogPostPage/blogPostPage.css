@@ -1,0 +1,18 @@
+#blog-post-page-content {
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    text-align: center;
+    align-items: center;
+    background-color: #1e1e1e;
+    margin: 12px;
+    border-radius: 12px;
+}
+
+#blog-post-page-content h1 {
+    color: #f6f6f6;
+}
+
+#blog-post-page-content p {
+    color: #e1e1e1;
+}

@@ -1,0 +1,23 @@
+#blog-post {
+    display: flex;
+    flex-direction: column;
+    background-color: #1e1e1e;
+    border-radius: 12px;
+    padding: 12px;
+    text-align: center;
+    align-items: center;
+}
+
+#blog-post h1 {
+    color: #f6f6f6;
+}
+
+#blog-post p {
+    color: #e1e1e1;
+    width: 50%;
+}
+
+#blog-post:hover{
+    transform: scale(1.01);
+
+}
